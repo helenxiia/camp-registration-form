@@ -1,5 +1,5 @@
 # camp-registration-form
-A camp registration form UI created using TKinter.  
+A camp registration form created using TKinter.  
 ## Empty Form
 ![UI Demo](https://github.com/helenxiia/camp-registration-form/blob/main/UI%20Demo.png?raw=true)  
 ## Search  
