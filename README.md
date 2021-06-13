@@ -5,4 +5,4 @@ A camp registration form UI created using TKinter.
 ## Search  
 ![UI Demo 2](https://github.com/helenxiia/camp-registration-form/blob/main/search%20ui.png?raw=true)  
 ## Camp List
-![UI Demo 3](https://github.com/helenxiia/camp-registration-form/blob/main/camp%20list.png?raw=true)  
+![UI Demo 3](https://github.com/helenxiia/camp-registration-form/blob/main/camp%20list.jpg?raw=true)  
